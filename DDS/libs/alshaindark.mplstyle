@@ -1,0 +1,13 @@
+axes.facecolor : 333333
+axes.prop_cycle : cycler('color', ['21b2ee','ee2148', 'c3f323', 'ee21ee', 'ddee21', '3c21ee', 'e80505', 'f7e700'])
+axes.edgecolor : 999999
+text.color : white
+axes.grid : True
+xtick.color : 999999
+ytick.color : 999999
+grid.color : 999999
+legend.edgecolor : 999999
+savefig.facecolor : 333333
+patch.facecolor : 333333
+figure.facecolor : 333333
+axes.labelcolor : 999999
